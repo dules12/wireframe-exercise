@@ -1,1 +1,1 @@
-# wireframe-exercise
+This page includes HTML writeup and a CSS style sheet that displays a sample page for a website. Photos and text should be replaced here to display real information for a website.
